@@ -1,1 +1,0 @@
-# SIH_2024_Smart_AI_Traffic_System
